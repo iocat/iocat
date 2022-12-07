@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iocat
-- 👀 I’m interested in Front End Software Engineer.
+- 👀 I’m interested in Front End Software Development.
 - 🌱 I’m currently learning how to raise a cat, and how to lead.
 - 💞️ I’m looking to collaborate on Typescript stuffs.
 - 📫 How to reach me: send me a PR.
