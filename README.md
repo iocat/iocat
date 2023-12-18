@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iocat
 - 👀 I’m interested in Front End Software Development.
-- 🌱 I’m currently learning how to raise a cat, and how to lead.
-- 💞️ I’m looking to collaborate on Typescript stuffs.
+- 🌱 I’m currently learning how to AI.
+- 💞️ I’m looking to collaborate on stuffs.
 - 📫 How to reach me: send me a PR.
 
 <!---
