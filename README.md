@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @iocat
-- 👀 I’m interested in Front End Software Development.
-- 🌱 I’m currently learning how to AI.
+# 👋 Hi, I'm iocat
 
-<!---
-iocat/iocat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**SWE@Google**  
+> Building with code. Breaking the mold.
+
+## 💻 Tech Stack
+- JavaScript & TypeScript
+- Kotlin
+- Bazel
+
+## 🚀 Featured Project
+- [rules_gleam](https://github.com/iocat/rules_gleam): Bazel rules for the Gleam language—speed, simplicity, and reliability for your builds.
+
+## 🌐 Interests
+- Web development: from frontend polish to backend wizardry
+- Music production & DJing: coding beats when not coding apps
+- Always up for a coding challenge (or just “yada”)
+
+## 🏠 Find Me Here
+- This GitHub is my only home online.  
+  Check out my projects, drop a star, or say hi!
+
+---
+
+> “Code. Build. Break. Learn. Repeat.” 
